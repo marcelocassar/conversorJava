@@ -1,6 +1,5 @@
 <h2 align=center>Challenge ONE Back End - Java</h2>
 
-### Sprint 01: Crie seu próprio conversor de moeda
 <br> 
 O conversor de moeda deverá:
 
